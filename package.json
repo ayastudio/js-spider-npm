@@ -1,0 +1,34 @@
+
+{
+  "name": "@ayast/js-spider",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "echo \"Error: that's not how it works, see: https://js-spider.com/docs\" && exit 1"
+  },
+  "dependencies": {
+      "@ayast/js-spider-web": "*",
+      "@ayast/js-spider-node": "*"
+  },
+  "description": "[META-PACKAGE] Let your users be your testers. Catch every error from your production JavaScript code, whether it's React, Vue, Cordova or pure and vanilla JS — JS-Spider got you covered!",
+  "author": "AYA Studio <info@ayast.ru>",
+  "keywords": [
+    "bug", "javascript",
+    "js", "track",
+    "spider", "js-spider",
+    "spider.js", "jspider",
+    "catch bug", "error",
+    "mistake", "catch errors",
+    "react", "vue",
+    "cordova", "console",
+    "vanilla", "jquery",
+    "minimal", "mini",
+    "small", "dashboard",
+    "panel", "tracking",
+    "serverless", "ayastudio",
+    "ayast", "saas",
+    "logger", "log bug",
+    "track bug", "log error"
+  ],
+  "homepage": "https://gumroad.com/ayast/follow"
+}
+
