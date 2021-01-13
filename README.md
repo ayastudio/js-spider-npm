@@ -10,8 +10,8 @@ It would download both browser and Node.js versions of the script.
 
 Further guides are available here:
 
-- [Browser version](browser/README.md)
-- [Node.js version](nodejs/README.md)
+- [Browser version](https://github.com/ayastudio/js-spider/browser/README.md)
+- [Node.js version](https://github.com/ayastudio/js-spider/nodejs/README.md)
 
 ## Subscribe to updates
 
