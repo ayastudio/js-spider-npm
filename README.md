@@ -1,10 +1,38 @@
-# @ayast/js-spider
+<p align="center">
+  <a href="https://github.com/ayastudio/js-spider-npm/">
+    <img
+      src="https://github.com/ayastudio/js-spider-npm/logo.png"
+      alt="Logo for js-spider — error monitoring tool for JavaScript environments"
+      width="80"
+      height="80"/>
+  </a>
 
-Let your users be your testers.
-Catch every error from your production JavaScript code, whether it's
-React, Vue, Cordova or pure and vanilla JS — js-spider got you covered!
+  <h1 align="center">js-spider</h1>
+
+  <p align="center">
+    Let your users be your testers.<br/>
+    Catch every error from your production JavaScript code,<br/>
+    whether it's React, Vue, Cordova or even pure Vanilla JS —<br/>
+    <strong>js-spider</strong> got you covered!
+    <br />
+    <a href="https://js-spider.com/docs"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/ayastudio/js-spider-npm">Home page</a>
+    ·
+    <a href="https://github.com/ayastudio/js-spider-npm/issues">Report a bug</a>
+    ·
+    <a href="https://github.com/ayastudio/js-spider-npm/issues">Request the Feature</a>
+  </p>
+</p>
 
 ## This is a [META-PACKAGE]
+
+<!-- - No dependencies -->
+<!-- - Tiny in size -->
+<!-- - Catches everything -->
+<!-- - Even network -->
+<!-- - Even makes screencasts -->
 
 It would download both browser and Node.js versions of the script.
 

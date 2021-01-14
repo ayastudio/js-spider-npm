@@ -1,0 +1,47 @@
+{
+  "name": "@ayast/js-spider-nodejs",
+  "version": "0.0.1",
+  "main": "js-spider.js",
+  "scripts": {
+    "test": "echo \"Error: that's not how it works, see: https://js-spider.com/docs\" && exit 1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ayastudio/js-spider-npm.git",
+    "directory": "nodejs"
+  },
+  "description": "[Node.js Package] Let your users be your testers. Catch every error from your production JavaScript code, whether it's React, Vue, Cordova or pure and vanilla JS — JS-Spider got you covered!",
+  "author": "AYA Studio <info@ayast.ru>",
+  "keywords": [
+    "nodejs", "node",
+    "npm", "npmjs",
+    "node error", "nodejs error",
+    "npm error", "npmjs error",
+    "node bug", "nodejs bug",
+    "npm bug", "npmjs bug",
+    "node fail", "nodejs fail",
+    "npm fail", "npmjs fail",
+    "global error", "global bug",
+    "backend js", "console assert",
+    "js console", "js console error",
+    "console error", "console log",
+    "bug", "javascript",
+    "js", "track",
+    "spider", "js-spider",
+    "spider.js", "jspider",
+    "catch bug", "error",
+    "mistake", "catch errors",
+    "react", "vue",
+    "cordova", "console",
+    "vanilla", "jquery",
+    "minimal", "mini",
+    "small", "dashboard",
+    "panel", "tracking",
+    "serverless", "ayastudio",
+    "ayast", "saas",
+    "logger", "log bug",
+    "track bug", "log error"
+  ],
+  "homepage": "https://gumroad.com/ayast/follow"
+}
+

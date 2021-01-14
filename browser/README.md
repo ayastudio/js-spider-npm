@@ -8,7 +8,7 @@ React, Vue, Cordova or pure and vanilla JS — js-spider got you covered!
 
 Add this to your website code to start using js-spider:
 
-```js
+```html
 <!-- JavaScript error monitoring agent. More on js-spider.com -->
 
 <script src="https://js-spider.com/js/js-spider.js"></script>

@@ -1,4 +1,3 @@
-
 {
   "name": "@ayast/js-spider",
   "version": "0.1.0",
@@ -6,8 +5,15 @@
     "test": "echo \"Error: that's not how it works, see: https://js-spider.com/docs\" && exit 1"
   },
   "dependencies": {
-      "@ayast/js-spider-browser": "*",
-      "@ayast/js-spider-nodejs": "*"
+      "@ayast/js-spider-browser": "latest",
+      "@ayast/js-spider-nodejs": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayastudio/js-spider-npm.git"
+  },
+  "publishConfig": {
+      "registry": "https://npm.pkg.github.com"
   },
   "description": "[META-PACKAGE] Let your users be your testers. Catch every error from your production JavaScript code, whether it's React, Vue, Cordova or pure and vanilla JS — JS-Spider got you covered!",
   "author": "AYA Studio <info@ayast.ru>",
