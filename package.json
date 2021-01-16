@@ -12,9 +12,6 @@
     "type": "git",
     "url": "https://github.com/ayastudio/js-spider-npm.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "description": "[META-PACKAGE] Let your users be your testers. Catch every error from your production JavaScript code, whether it's React, Vue, Cordova or pure and vanilla JS — JS-Spider got you covered!",
   "author": "AYA Studio <info@ayast.ru>",
   "keywords": [
