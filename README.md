@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/ayastudio/js-spider-npm/">
     <img
-      src="https://github.com/ayastudio/js-spider-npm/logo.png"
+      src="https://github.com/ayastudio/js-spider-npm/blob/master/logo.png?raw=true"
       alt="Logo for js-spider — error monitoring tool for JavaScript environments"
       width="80"
       height="80"/>
@@ -18,7 +18,7 @@
     <a href="https://js-spider.com/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ayastudio/js-spider-npm">Home page</a>
+    <a href="https://js-spider.com">Home page</a>
     ·
     <a href="https://github.com/ayastudio/js-spider-npm/issues">Report a bug</a>
     ·

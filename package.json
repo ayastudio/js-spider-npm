@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "@ayast/js-spider-browser": "latest",
-    "@ayast/js-spider-nodejs": "latest"
+    "@ayast/js-spider-backend": "latest"
   },
   "repository": {
     "type": "git",
