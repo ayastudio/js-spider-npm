@@ -1,4 +1,5 @@
-<p align="center">
+<div align="center">
+  <p>
   <a href="https://github.com/ayastudio/js-spider-npm/">
     <img
       src="https://github.com/ayastudio/js-spider-npm/blob/master/logo.png?raw=true"
@@ -6,10 +7,11 @@
       width="80"
       height="80"/>
   </a>
+  </p>
 
-  <h1 align="center">js-spider</h1>
+  <h1>js-spider</h1>
 
-  <p align="center">
+  <p>
     Let your users be your testers.<br/>
     Catch every error from your production JavaScript code,<br/>
     whether it's React, Vue, Cordova or even pure Vanilla JS —<br/>
@@ -24,7 +26,7 @@
     ·
     <a href="https://github.com/ayastudio/js-spider-npm/issues">Request the Feature</a>
   </p>
-</p>
+</div>
 
 ## This is a [META-PACKAGE]
 

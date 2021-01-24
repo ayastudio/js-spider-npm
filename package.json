@@ -1,6 +1,6 @@
 {
-  "name": "@ayast/js-spider",
-  "version": "0.1.3",
+  "name": "js-spider.com",
+  "version": "0.1.0",
   "scripts": {
     "test": "echo \"Error: that's not how it works, see: https://js-spider.com/docs\" && exit 1"
   },
